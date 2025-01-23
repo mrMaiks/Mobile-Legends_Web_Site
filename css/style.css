@@ -42,7 +42,7 @@ body {
   background-repeat: no-repeat;
   background-size: 100%;
 
-  font-family: 'Times New Roman', Times, serif;
+  font-family: sans-serif;
 }
 
 /* global */
@@ -96,7 +96,7 @@ h1, h2, h3, p, a, img {
 
 .header__container_link {
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 600;
   text-transform: uppercase;
   transition: color 0.15s ease-in-out;
 }
